@@ -118,6 +118,8 @@ sub {
 
 img {
 	border: 0;
+	height: 100;
+	width: 100;
 }
 
 svg:not(:root) {
